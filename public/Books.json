@@ -1,0 +1,180 @@
+[
+    {
+        "id" : 0,
+        "type" : "Action and adventure",
+        "name" : "Jurassic Park",
+        "author" : "Micheal Crichton",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91tSmjByhjL.jpg",   
+        "price" : 10
+    },
+    {
+        "id" : 1,
+        "type" : "Action and adventure",
+        "name" : "Red Rabbit",
+        "author" : "Tom Clancy",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/51PuAtC3XyL.jpg",   
+        "price" : 20
+    },
+    {
+        "id" : 2,
+        "type" : "Action and adventure",
+        "name" : "The Da Vinci Code",
+        "author" : "Dan Brown",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg",   
+        "price" : 30   
+
+    },
+    {
+        "id" : 3,
+        "type" : "Action and adventure",
+        "name" : "The Martian",
+        "author" : "Andy Weir",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/A1ASEl5HBZL.jpg",   
+        "price" : 40   
+
+    },
+    {
+        "id" : 4,
+        "type" : "Action and adventure",
+        "name" : "Tom Clancy's Oath of Office",
+        "author" : "Marc Cameron",
+        "src" : "https://m.media-amazon.com/images/I/61kM6cDF1FL.jpg",   
+        "price" : 50   
+
+    },
+    {
+        "id" : 5,
+        "type" : "Horror",
+        "name" : "Black Sun",
+        "author" : "Owen Mathews",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/81-TlN2mEgL.jpg",   
+        "price" : 60   
+
+    },
+    {
+        "id" : 6,
+        "type" : "Horror",
+        "name" : "Origin",
+        "author" : "Dan Brown",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91ZeWa2jVaL.jpg",   
+        "price" : 70   
+
+    },
+    {
+        "id" : 7,
+        "type" : "Horror",
+        "name" : "The Thirty Nine Steps",
+        "author" : "John Bauchan",
+        "src" : "https://m.media-amazon.com/images/I/51GB+4Xep7L.jpg",   
+        "price" : 80   
+
+    },
+    {
+        "id" : 8,
+        "type" : "Horror",
+        "name" : "The Creatan Runner",
+        "author" : "George Physchoundakis",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/A1VD90pG1zL.jpg",   
+        "price" : 90   
+
+    },
+    {
+        "id" : 9,
+        "type" : "Horror",
+        "name" : "Father Land",
+        "author" : "Robert Harris",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/610khK7jc4L.jpg",   
+        "price" : 10   
+
+    },
+    {
+        "id" : 10,
+        "type" : "Fiction",
+        "name" : "To Kill A Mockingbird",
+        "author" : "Haper Lee",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/51N5qVjuKAL._SX309_BO1,204,203,200_.jpg",   
+        "price" : 20   
+
+    },
+    {
+        "id" : 11,
+        "type" : "Fiction",
+        "name" : "The Catcher In The Eye",
+        "author" : "J.D. Salinger",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",   
+        "price" : 30   
+
+    },
+    {
+        "id" : 12,
+        "type" : "Fiction",
+        "name" : "Pride And Prejudice",
+        "author" : "Jade Austin",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/81WHo3-GU-L.jpg",   
+        "price" : 40   
+
+    },
+    {
+        "id" : 13,
+        "type" : "Fiction",
+        "name" : "A clockwork Orange",
+        "author" : "Anthony",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/41mN6FBCVGL.jpg",   
+        "price" : 50   
+
+    },
+    {
+        "id" : 14,
+        "type" : "Fiction",
+        "name" : "1984",
+        "author" : "George Orwell",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/514CVwOrybL.jpg",   
+        "price" : 60   
+
+    },
+    {
+        "id" : 15,
+        "type" : "Classics",
+        "name" : "Brave New World",
+        "author" : "Aldous",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91D4YvdC0dL.jpg",   
+        "price" : 70
+    },
+    {
+        "id" : 16,
+        "type" : "Classics",
+        "name" : "Dracula",
+        "author" : "bram stoker",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/41b1XDj4UZL._SX336_BO1,204,203,200_.jpg",   
+        "price" : 80   
+
+    },
+    {
+        "id" : 17,
+        "type" : "Classics",
+        "name" : "One Hundered Years Of Soltitude",
+        "author" : "Gabriel Garcia Marquez",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91mftQtgAkL.jpg" ,   
+        "price" : 90  
+
+    },
+    {
+        "id" : 18,
+        "type" : "Classics",
+        "name" : "the burning girls",
+        "author" : "C.J Tudor",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/81EwUCKO-nL.jpg"  ,   
+        "price" : 10 
+
+    },
+    {
+        "id" : 19,
+        "type" : "Classics",
+        "name" : "The Sanatorium",
+        "author" : "Sarah Pearse",
+        "src" : "https://images-na.ssl-images-amazon.com/images/I/91FhWixb67L.jpg",   
+        "price" : 20   
+
+    }
+    
+]
