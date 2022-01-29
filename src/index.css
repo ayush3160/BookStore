@@ -36,3 +36,20 @@ code {
   width: 100%;
 }
 
+.fav-width{
+  width: 5%;
+}
+
+.nav-bg{
+  background-color: rgb(104, 91, 91);
+}
+
+.wrapper{
+  position: relative;
+}
+
+.cart-item{
+  position :absolute;
+  top: -2px;
+  right: -2px; 
+}

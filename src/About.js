@@ -10,23 +10,25 @@ function About() {
             <div className="row my-5">
               <div className="col-9 mx-auto">
                 <ul>
-                  <li>👋 Hi, I’m @ayushSharma </li>
+                  <h5><li>👋 Hi, I’m @ayushSharma </li></h5>
                   <li>
-                    👀 I’m interested in Web development and new technology.
+                    <h5>👀 I’m interested in Web development and new technology.</h5>
                   </li>
                   <li>
-                    🌱 I’m currently doing computer science from YMCA faridabad.
+                    <h5>🌱 I’m currently doing computer science from YMCA faridabad.</h5>
                   </li>
                   <li>
-                    💞️ I’m looking to collaborate on Frontend development.
+                   <h5> 💞️ I’m looking to collaborate on Frontend development.</h5>
                   </li>
                   <li>
-                    📫 How to reach me...{" "}
+                    <h5>📫 How to reach me...</h5>
                     <ul>
-                      <li>
+                      <li><label>
+                        GitHub :
                         <a href="https://github.com/ayush3160" target="_blank">
-                          Github
+                          <img src="./GitHub-Mark.png" width = "5%"></img>
                         </a>
+                        </label>
                       </li>
                     </ul>
                   </li>
